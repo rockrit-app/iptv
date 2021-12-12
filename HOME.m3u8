@@ -131,13 +131,13 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Eleven Sports Network
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16218.ts?checkedby:iptvcat.com
-#EXTINF:0,ESPN
+#EXTINF:-1,ESPN
 #EXTVLCOPT:network-caching=1000
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16265.ts?checkedby:iptvcat.com
-#EXTINF:0,ESPN 2 HD
+#EXTINF:-1,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/312.ts?checkedby:iptvcat.com
-#EXTINF:0,ESPNEWS (USA)
+#EXTINF:-1,ESPNEWS (USA)
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16262.ts?checkedby:iptvcat.com
 #EXTINF:60,Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
