@@ -1,85 +1,136 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-country="AU" tvg-logo="" group-title="Radio",2GB
+#EXTINF:0,ABC News 24 HD
+https://c.mjh.nz/101002210220/
+
+#EXTINF:0,2GB
 https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27087?checkedby:iptvcat.com
+#EXTINF:0,CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27088?checkedby:iptvcat.com
+#EXTINF:0,Reuters News
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",ESPNEWS (USA)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16262.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT 1 HD USA
-http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7118?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sport",beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",Bally Sports So Cal
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4854.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Sport",EDGESport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",Eleven Sports Network
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16218.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
-https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-
-#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
-https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-
-#EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
-https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-
-#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
-https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-
-#EXTINF:-1 tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
-https://c.mjh.nz/snowy-mountains/
-
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
-https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-
-#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
-https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-
-#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
-https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-
-#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
-https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
-
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
+#EXTINF:0,Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Undefined",CNN International
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Undefined",CNN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,Channel News Asia (CNA)
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",MSNBC
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwq2YDz-GclQxcLaWH-ii-s?checkedby:iptvcat.com
+#EXTINF:0,MSNBC
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwq2YDz-GclQxcLaWH-ii-s
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS News (CBSN)
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ausbiz TV
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Undefined",NBC News
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web&checkedby:iptvcat.com
+#EXTINF:0,Bloomberg Australia
+https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="News",ABC News HD US
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16710?checkedby:iptvcat.com
+#EXTINF:0,Bloomberg TV+ 4K (England)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="News",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0,America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+
+#EXTINF:0,WeatherNation
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+
+#EXTINF:0,PBS America
+https://pbs-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Cheddar
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Bloomberg Quicktake
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Newsy
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+
+#EXTINF:0,TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+
+#EXTINF:0,Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+
+#EXTINF:0,USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+
+#EXTINF:0,USA Today Sportswire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Sportswire.m3u8
+
+#EXTINF:0,Fox Sports USA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
+
+#EXTINF:0,EDGESport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+
+#EXTINF:0,Edge Sport (England)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0,PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+
+#EXTINF:0,PAC-12 Insider
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8
+
+#EXTINF:0,FTF (For the Fans)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+
+#EXTINF:0,Stadium
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+
+#EXTINF:0,Horizon Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=607&deviceId=5d7677fa2ec536ce1d587eeb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:0,The Tennis Channel International (England)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Players TV (England)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Players TV
+https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
+
+#EXTINF:0,Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+
+#EXTINF:0,Redbull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+
+#EXTINF:0,MAVTV Motor Sports (Australia)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Olympics Channel
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+
+#EXTINF:0,MLB
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
+
+#EXTINF:0,Motorvision
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungau/playlist.m3u8
+
+#EXTINF:0,NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+
+#EXTINF:0,Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+
+#EXTINF:0,Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/
