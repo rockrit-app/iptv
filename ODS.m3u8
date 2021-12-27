@@ -1,136 +1,136 @@
 #EXTM3U
 
-#EXTINF:0,ABC News 24 HD
+#EXTINF:-1,ABC News 24 HD
 https://c.mjh.nz/101002210220/
 
-#EXTINF:0,2GB
+#EXTINF:-1,2GB
 https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8
 
-#EXTINF:0,CNN International
+#EXTINF:-1,CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Reuters News
+#EXTINF:-1,Reuters News
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Al Jazeera
+#EXTINF:-1,Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
 
-#EXTINF:0,France 24 English
+#EXTINF:-1,France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:0,Channel News Asia (CNA)
+#EXTINF:-1,Channel News Asia (CNA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
-#EXTINF:0,MSNBC
+#EXTINF:-1,MSNBC
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwq2YDz-GclQxcLaWH-ii-s
 
-#EXTINF:0,ausbiz TV
+#EXTINF:-1,ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 
-#EXTINF:0,Bloomberg Australia
+#EXTINF:-1,Bloomberg Australia
 https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
 
-#EXTINF:0,Bloomberg TV+ 4K (England)
+#EXTINF:-1,Bloomberg TV+ 4K (England)
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,GB News
+#EXTINF:-1,GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:0,America's Voice
+#EXTINF:-1,America's Voice
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Live Now From Fox
+#EXTINF:-1,Live Now From Fox
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
 
-#EXTINF:0,WeatherNation
+#EXTINF:-1,WeatherNation
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 
-#EXTINF:0,PBS America
+#EXTINF:-1,PBS America
 https://pbs-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Cheddar
+#EXTINF:-1,Cheddar
 https://cheddar.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Yahoo! Finance
+#EXTINF:-1,Yahoo! Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Bloomberg Quicktake
+#EXTINF:-1,Bloomberg Quicktake
 https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Newsy
+#EXTINF:-1,Newsy
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
 
-#EXTINF:0,TMZ
+#EXTINF:-1,TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
 
-#EXTINF:0,Now This
+#EXTINF:-1,Now This
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
 
-#EXTINF:0,USA Today
+#EXTINF:-1,USA Today
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 
-#EXTINF:0,USA Today Sportswire
+#EXTINF:-1,USA Today Sportswire
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Sportswire.m3u8
 
-#EXTINF:0,Fox Sports USA
+#EXTINF:-1,Fox Sports USA
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
 
-#EXTINF:0,EDGESport
+#EXTINF:-1,EDGESport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
-#EXTINF:0,Edge Sport (England)
+#EXTINF:-1,Edge Sport (England)
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:0,PAC-12
+#EXTINF:-1,PAC-12
 https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
 
-#EXTINF:0,PAC-12 Insider
+#EXTINF:-1,PAC-12 Insider
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8
 
-#EXTINF:0,FTF (For the Fans)
+#EXTINF:-1,FTF (For the Fans)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Fubo Sports Network
+#EXTINF:-1,Fubo Sports Network
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
-#EXTINF:0,Stadium
+#EXTINF:-1,Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
 
-#EXTINF:0,Horizon Sports
+#EXTINF:-1,Horizon Sports
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=607&deviceId=5d7677fa2ec536ce1d587eeb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:0,The Tennis Channel International (England)
+#EXTINF:-1,The Tennis Channel International (England)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Players TV (England)
+#EXTINF:-1,Players TV (England)
 https://playerstv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Players TV
+#EXTINF:-1,Players TV
 https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
 
-#EXTINF:0,Fuel TV
+#EXTINF:-1,Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
 
-#EXTINF:0,Redbull TV
+#EXTINF:-1,Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 
-#EXTINF:0,MAVTV Motor Sports (Australia)
+#EXTINF:-1,MAVTV Motor Sports (Australia)
 https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0,Olympics Channel
+#EXTINF:-1,Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
 
-#EXTINF:0,MLB
+#EXTINF:-1,MLB
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 
-#EXTINF:0,Motorvision
+#EXTINF:-1,Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungau/playlist.m3u8
 
-#EXTINF:0,NFL
+#EXTINF:-1,NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
 
-#EXTINF:0,Outdoor Channel
+#EXTINF:-1,Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
 
-#EXTINF:0,Snowy Mountains Television
+#EXTINF:-1,Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains/
