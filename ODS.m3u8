@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1, Sydney Harbour East
+https://s65.ipcamlive.com/streams/41tnclrdzvysvfjzb/stream.m3u8
+
+#EXTINF:-1, Sydney Harbour West
+https://edge01.balticlivecam.com/blc/p_AU_Sydney_Harbour/tracks-v1/mono.m3u8?token=5149aef62f33b2cce225f2ce00c7f46d%3A1640943020595
+
+#EXTINF:-1, Coogee Beach
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/coogee_beach.smil/chunklist_b3000000_sess300444276.m3u8?key=randwick.61ced08fca91b1.67191008&pass=StMQpFcruSptT4QB
+
+#EXTINF:-1, Clovelly West
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/clovelly_west.smil/chunklist_b3000000_sess201390488.m3u8?key=randwick.61ced090798a79.90632783&pass=BAxkK5klZlaQKAzY
+
+#EXTINF:-1, Clovelly East
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/clovelly_east.smil/chunklist_b3000000_sess482981442.m3u8?key=randwick.61ced0912f1009.73257544&pass=z1KdxHjfcftp16Qe
+
+#EXTINF:-1, Little Bay
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/little_bay.smil/chunklist_b3000000_sess908082477.m3u8?key=randwick.61ced091d2b158.55943084&pass=rZeMGUFBXXT62Omf
+
+#EXTINF:-1, Mahon Pool
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/Mahon_Pool.smil/chunklist_b3000000_sess929491252.m3u8?key=randwick.61ced189739158.11318986&pass=1nYKVvPe5PD7hC2x
+
+#EXTINF:-1, Malabar Beach
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/malabar_beach.smil/chunklist_b3000000_sess102394383.m3u8?key=randwick.61ced18b13ea38.45746854&pass=q22ZVNPVWkWKnqw6
+
+#EXTINF:-1, Maroubra North
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/maroubra_north.smil/chunklist_b3000000_sess446206767.m3u8?key=randwick.61ced19dc7e367.34605390&pass=kdvdwDWlfPtR2x2G
+
+#EXTINF:-1, Maroubra South
+https://vse2-as-all37.secdn.net/randwickcc-channel/sevu/maroubra_south.smil/chunklist_b3000000_sess427247460.m3u8?key=randwick.61ced19e775492.76260930&pass=ZBe8JmNllmlNUCYZ
+
 #EXTINF:-1,ABC News 24 HD
 https://c.mjh.nz/101002210220/
 
