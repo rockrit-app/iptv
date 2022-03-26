@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,ESPN HD 1080P
+#EXTVLCOPT:network-caching=1000
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323363?checkedby:iptvcat.com
+#EXTINF:0,ESPN 2 HD 1080P
+#EXTVLCOPT:network-caching=1000
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323362?checkedby:iptvcat.com
+#EXTINF:0,ESPN News
+#EXTVLCOPT:network-caching=1000
+http://stariptv.org:8080/hakim2021/123456/148467?checkedby:iptvcat.com
+#EXTINF:0,ESPN U
+#EXTVLCOPT:network-caching=1000
+http://proxy.ottoprime.net:80/Muslu/Muslu1/32690?checkedby:iptvcat.com
+#EXTINF:0,ABC Los Angeles HD 1080P
+#EXTVLCOPT:network-caching=1000
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/331236?checkedby:iptvcat.com
+#EXTINF:0,CBS (KCAL- Los Angeles CA)
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/kixy2030/u8zC9nvB69/90234?checkedby:iptvcat.com
+#EXTINF:0,CBS Los Angeles HD 1080P
+#EXTVLCOPT:network-caching=1000
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/331267?checkedby:iptvcat.com
+#EXTINF:0,CBS NEWS LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/kixy2030/u8zC9nvB69/98846?checkedby:iptvcat.com
+#EXTINF:0,NBC (KNBC - Los Angeles CA)
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/kixy2030/u8zC9nvB69/90413?checkedby:iptvcat.com
+#EXTINF:0,FOX (KTTV- Los Angeles CA)
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/kixy2030/u8zC9nvB69/90116?checkedby:iptvcat.com
+#EXTINF:0,KTLA HD 1080P
+#EXTVLCOPT:network-caching=1000
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323590?checkedby:iptvcat.com
