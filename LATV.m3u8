@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:32,ABC News
+#EXTINF:32 tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png" tvg-chno="1000",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?checkedby:iptvcat.com
-#EXTINF:60,CBS News
+#EXTINF:60 tvg-logo="http://store-images.s-microsoft.com/image/apps.43513.9007199266307714.19056064-61f6-46db-a885-8606a40a9130.a984fc0d-b11e-4512-a656-8cde1f7e36cd" tvg-chno="1001",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?checkedby:iptvcat.com
-#EXTINF:54,NBC News Now
+#EXTINF:54 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest?cb=20210629125642" tvg-chno="1002",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:32,ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5utj41VC_AdZW04K1JpRP0TdU11xu0PtEvgTTvqNnmRO0r5ZmjlEJIPwwMxgmU-vBGo&usqp=CAU" tvg-chno="1101",ABC 7 Los Angeles CA (KABC-TV)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8?checkedby:iptvcat.com
-#EXTINF:102,CBS News Los Angeles
+#EXTINF:102 tvg-logo="http://store-images.s-microsoft.com/image/apps.43513.9007199266307714.19056064-61f6-46db-a885-8606a40a9130.a984fc0d-b11e-4512-a656-8cde1f7e36cd" tvg-chno="1102",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
-#EXTINF:100,KTLA
+#EXTINF:100 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Ktla2016.svg/revision/latest/scale-to-width-down/170?cb=20200722050910" tvg-chno="1103" ,KTLA
 https://dcs-live-uw1.mp.lura.live/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-2&anvsid=m177610524-n596166b87d82b78c89bf2b1ac1ff225d&ts=1674526668&anvtrid=ede001bdcc952be94881a0e9e819f7fd
