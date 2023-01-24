@@ -1,29 +1,7 @@
 #EXTM3U
-#EXTINF:0,ESPN HD 1080P
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323363?checkedby:iptvcat.com
-#EXTINF:0,ESPN 2 HD 1080P
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323362?checkedby:iptvcat.com
-#EXTINF:0,ESPN News
-http://stariptv.org:8080/hakim2021/123456/148467?checkedby:iptvcat.com
-#EXTINF:0,ESPN U
-http://proxy.ottoprime.net:80/Muslu/Muslu1/32690?checkedby:iptvcat.com
-#EXTINF:0,ABC Los Angeles HD 1080P
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/331236?checkedby:iptvcat.com
-#EXTINF:0,CBS (KCAL- Los Angeles CA)
-http://mains.services:2086/kixy2030/u8zC9nvB69/90234?checkedby:iptvcat.com
-#EXTINF:0,CBS Los Angeles HD 1080P
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/331267?checkedby:iptvcat.com
-#EXTINF:0,CBS NEWS LOS ANGELES
-http://mains.services:2086/kixy2030/u8zC9nvB69/98846?checkedby:iptvcat.com
-#EXTINF:0,NBC (KNBC - Los Angeles CA)
-http://mains.services:2086/kixy2030/u8zC9nvB69/90413?checkedby:iptvcat.com
-#EXTINF:0,FOX (KTTV- Los Angeles CA)
-http://mains.services:2086/kixy2030/u8zC9nvB69/90116?checkedby:iptvcat.com
-#EXTINF:0,KTLA HD 1080P
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323590?checkedby:iptvcat.com
 #EXTINF:32,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?checkedby:iptvcat.com
-#EXTINF:60,CBS News (720p)
+#EXTINF:60,CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?checkedby:iptvcat.com
 #EXTINF:54,NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8?checkedby:iptvcat.com
@@ -31,6 +9,5 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8?checkedby:iptvcat.com
 #EXTINF:102,CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
-#EXTINF:100,rendition.m3u8?track=video-2&anvsid=m177610524-n596166b87d82b78c89bf2b1ac1ff225d&ts=1674526668&anvtrid=ede001bdcc952be94881a0e9e819f7fd
-#EXTVLCOPT:network-caching=1000
+#EXTINF:100,KTLA
 https://dcs-live-uw1.mp.lura.live/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-2&anvsid=m177610524-n596166b87d82b78c89bf2b1ac1ff225d&ts=1674526668&anvtrid=ede001bdcc952be94881a0e9e819f7fd
